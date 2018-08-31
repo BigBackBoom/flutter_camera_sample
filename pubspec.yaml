@@ -1,0 +1,17 @@
+name: flutter_camera_sample
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  camera: "^0.2.1"
+  path_provider: "0.4.1"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
